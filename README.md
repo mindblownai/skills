@@ -45,6 +45,9 @@ What they can't do is decide whether the game is fun. That takes people playing 
 - Keep Mindblown's own [skill.md](https://mindblown.ai/skill.md) alongside. These skills point to it for signing in and publishing rather than repeat it.
 - `build-review` has two scripts: `phone-sweep.mjs`, which needs Node 22+ and Chrome or Chromium, and `selftest-skeleton.js`, which you copy into a game.
 
+## License
+MIT, see [LICENSE](LICENSE). You can use, change and share these skills, in your own projects and in commercial ones.
+
 ## Learn it with playable examples
 Every skill names the Mindblown Academy lesson that explains it, with a game you can play and the exact prompt that built each step.
 - Course 1, **Game Design for AI Builders**: one-line idea, core loop, the first minute, feel, playtesting, difficulty, progression, store page.
